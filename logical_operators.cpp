@@ -6,6 +6,6 @@ void logicOp(int a, int b)
     int t2=a || b;
     int t3=(!a) && (!b);
     
-    cout<<t1<<" "<<t2<<" "<<t3<<" ";
-    cout<<endl;
+    // cout<<t1<<" "<<t2<<" "<<t3<<" ";
+    // cout<<endl;
 }
