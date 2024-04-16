@@ -1,11 +1,5 @@
 class Solution
-{ 
-  
-    // function to count all pairs  
-    // from both the sorted arrays  
-    // whose sum is equal to a given  
-    // value 
-    static int countPairs(int arr1[],int arr2[], int M, int N, int x) 
+{ static int countPairs(int arr1[],int arr2[], int M, int N, int x) 
     { 
         //code here.
       int i=0;
